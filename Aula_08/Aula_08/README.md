@@ -15,6 +15,12 @@
 
 ## Métodos em python
 1. print() -> Exibe informações no terminal.
+2. input() -> Capturar uma informação no terminal.
+
+## Operadores lógicos
+and -> e -> Se duas condições forem verdadeiras, o resultado é verdadeiro.
+or -> ou -> Se pelo menos umas condição for verdadeira, o resultado é verdadeiro.
+not -> Ele altera o valor booleano da condição.
 
 ## Format em python
 2. Estruturas de repetição:
